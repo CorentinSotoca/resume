@@ -11443,12 +11443,14 @@ section.resume-section .resume-section-content {
 }
 
 .img-graph{
-  height: 200px;
+  max-height: 200px;
+  max-width: 300px;
   margin-right: 20px;
 }
 
 .img-logo{
-  height: 150px;
+  max-width: 9rem;
+  max-height: 9rem;
   margin-right: 20px;
 }
 
