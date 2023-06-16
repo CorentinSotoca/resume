@@ -11406,7 +11406,8 @@ p.lead {
 }
 
 .dev-icons {
-  font-size: 4rem;
+  font-size: 2rem;
+  color: #000;
 }
 
 section.resume-section {
